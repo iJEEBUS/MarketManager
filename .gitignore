@@ -1,0 +1,3 @@
+CONFIG.*
+*.pyc
+.ipynb_checkpoints
